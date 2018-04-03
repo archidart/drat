@@ -1,0 +1,8 @@
+Package: TDA
+Version: 1.6
+Depends: R (>= 3.1.0)
+Imports: FNN, igraph, parallel, scales, Rcpp (>= 0.11.0)
+LinkingTo: Rcpp, RcppEigen, BH (>= 1.60.0-2)
+License: GPL-3
+MD5sum: d7e437afdc29c2a060c579fea094dc85
+NeedsCompilation: yes
